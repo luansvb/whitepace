@@ -558,7 +558,7 @@ nav .close-icon {
         margin-bottom: 30px;
     }
 
-    @media (max-width:>500px) {
+    @media (max-width: 768px) {
         .banner .banner-text h1 {
             font-size: 50px;
         }
@@ -566,4 +566,10 @@ nav .close-icon {
             font-size: 40px;
         }
     }
-}
+        .banner .banner-text h1 {
+            font-size: 50px;
+        }
+        .faca-mais .faca-mais-text h3 {
+            font-size: 40px;
+        }
+    }
