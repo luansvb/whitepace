@@ -7,3 +7,5 @@ function openMenu() {
 function closeMenu() {
     ul.classList.remove('open');
 }
+
+// Path: main.js

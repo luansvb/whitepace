@@ -455,7 +455,7 @@ nav .close-icon {
 /*fim pagina contato*/
 
 @media(max-width: 768px){
-    /*menu mobile*/
+    /*menu mobile */
     ul {
         position: fixed;
         top: 0;
