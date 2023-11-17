@@ -510,6 +510,12 @@ nav .close-icon {
         width: 100%;
     }
 
+    @media only screen and (max-width: 767px) {
+        .faca-mais .faca-mais-text {
+            font-size: 36px; /* Ajuste o tamanho da fonte para telas menores, se necessário */
+        }
+    }
+
     /*banner responsivo*/
 
     .banner .banner-text {
